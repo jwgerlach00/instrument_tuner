@@ -1,11 +1,9 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 10/21/2020
-% tuner2.m
+% interval.m
 %
-% Records input audio file and compares it to all possible notes. Tell user
-% whether they are within a reasonable distance from the desired note using
-% LEDs.
+% Finds interval between two notes.
 
 clc
 clear
